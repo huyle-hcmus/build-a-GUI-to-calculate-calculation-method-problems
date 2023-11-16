@@ -8,4 +8,8 @@
 
 ![gui_interface](docs/gui_interface.jpg)
 
-**Apply to calculations [results]()**
+### Contributor
+
+- [Huy Le]
+
+**Apply to calculations [results](https://github.com/huyle-hcmus/build-a-GUI-to-calculate-calculation-method-problems/tree/main/docs)**
